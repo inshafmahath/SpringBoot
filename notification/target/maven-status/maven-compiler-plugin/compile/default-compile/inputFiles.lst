@@ -1,0 +1,7 @@
+/Users/inshaf/Documents/GitHub/SpringBoot/microservices/notification/src/main/java/com/amigoscode/notification/NotificationRepository.java
+/Users/inshaf/Documents/GitHub/SpringBoot/microservices/notification/src/main/java/com/amigoscode/notification/NotificationController.java
+/Users/inshaf/Documents/GitHub/SpringBoot/microservices/notification/src/main/java/com/amigoscode/notification/rabbitmq/NotificationConsumer.java
+/Users/inshaf/Documents/GitHub/SpringBoot/microservices/notification/src/main/java/com/amigoscode/notification/NotificationConfig.java
+/Users/inshaf/Documents/GitHub/SpringBoot/microservices/notification/src/main/java/com/amigoscode/notification/Notification.java
+/Users/inshaf/Documents/GitHub/SpringBoot/microservices/notification/src/main/java/com/amigoscode/notification/NotificationService.java
+/Users/inshaf/Documents/GitHub/SpringBoot/microservices/notification/src/main/java/com/amigoscode/notification/NotificationApplication.java
